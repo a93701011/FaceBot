@@ -9,4 +9,4 @@
 2.Face verify
 
 ### Snap shot
-![]
+![step1](/pic/step1.png)

@@ -9,4 +9,4 @@
 2.Face verify
 
 ### Snap shot
-![step1](/pic/step1.png)
+![step1](https://github.com/a93701011/FaceBot/blob/master/pic/step1.PNG)
